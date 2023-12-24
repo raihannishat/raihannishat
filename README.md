@@ -17,13 +17,3 @@ Skills: C#, .NET Core, OOP, Clean Architecture, Design Pattern, Unit Test
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/raihannishat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/raihan-nishat-679455163//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/raihannishat.bd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://raihanswe.blogspot.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](https://sites.google.com/diu.edu.bd/raihannishat)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/raihannishat)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/raihannishat)](https://github.com/anuraghazra/github-readme-stats)
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/raihannishat/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/raihannishat)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/raihannishat)  
-
