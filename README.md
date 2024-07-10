@@ -9,7 +9,7 @@ News : https://www.prothomalo.com/technology/dveqtw5nc7 </br>
 
 Skills: C#, .NET Core, OOP, Clean Architecture, Design Pattern, Unit Test
 
-- 🔭 I’m currently working on Orbitax 
+- 🔭 I’m currently working on Streams Tech Ltd 
 - 🌱 I’m currently learning ASP.NET Core 
 - 📫 How to reach me: 01710512211 
 
