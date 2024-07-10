@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Raihan Nishat
-#### Associate Software Engineer at Orbitax
+#### Associate Software Engineer at Streams Tech Ltd
 
 I'm Raihan Nishat. I studied software engineering at Daffodil International University. I participated in a hackathon called Learnathon 2022. This hackathon was organized by Geeky Solutions. My team achieved the honor of being 1st runner up. Total 187 teams from 20 universities applied. Within this, 25 teams were selected. Our team is one of them. Orbitex manages the entire program and rewards us.
 
