@@ -34,7 +34,3 @@ Throughout my journey, I’ve worked on **legacy system modernization**, **dynam
 
 ## 🚀 What Drives Me
 I love **solving complex engineering problems**, simplifying systems through **clean architecture**, and building features that help businesses **scale without rewriting core logic**. I’m always looking for meaningful backend engineering challenges where **architecture, scalability, and maintainability** matter.
-
-- 🔭 I’m currently working on Streams Tech Ltd 
-- 🌱 I’m currently learning ASP.NET Core 
-- 📫 How to reach me: +88 01710512211 
